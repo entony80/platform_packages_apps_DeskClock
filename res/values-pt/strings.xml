@@ -405,4 +405,33 @@
     <string name="pick_alarm_to_dismiss" msgid="5408769235866082896">"Escolher qual alarme dispensar"</string>
     <string name="no_firing_alarms" msgid="4986161963178722289">"Nenhum alarme disparando"</string>
     <string name="alarm_is_snoozed" msgid="7044644119744928846">"Alarme <xliff:g id="ALARM_TIME">%s</xliff:g> adiado por 10 minutos"</string>
+    <!-- Setting title for the flip action setting. -->
+    <string name="flip_action_title">Ação ao virar</string>
+
+      <!-- Setting summary for the flip action setting. -->
+    <string name="flip_action_summary" product="default">Virar o telefone irá
+        <xliff:g id="action">%s</xliff:g>
+    </string>
+
+    <!-- Setting title for the shake action setting. -->
+    <string name="shake_action_title">Ação ao agitar</string>
+
+    <!-- Setting summary for the shake action setting. -->
+    <string name="shake_action_summary" product="default">Agitar o telefone irá
+        <xliff:g id="action">%s</xliff:g>
+    </string>
+
+    <!-- Summary texts for shake and flip actions -->
+    <string name="action_summary_snooze">adiar o alarme</string>
+    <string name="action_summary_dismiss">descartar o alarme</string>
+    <string name="action_summary_do_nothing">fazer nada</string>
+
+    <!-- Label on expanded alarm edit view indicating the ringtone is custom. -->
+    <string name="custom_ringtone">Toque Personalizado</string>
+
+    <!-- Ringtone selection default" -->
+    <string name="ringtone_default">"Toque padrão"</string>
+
+    <!--used for prompt to user storage permission status-->
+    <string name="have_denied_storage_permission">Você negou permissão de armazenamento e pode adicionar essa permissão manualmente no aplicativo de configuração</string>
 </resources>
