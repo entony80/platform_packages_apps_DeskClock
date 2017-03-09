@@ -359,13 +359,18 @@
     <string name="collapse_alarm" msgid="3561772046433483980">"Recolher alarme"</string>
     <string name="alarm_undo" msgid="5710042601177655254">"desfazer"</string>
     <string name="alarm_deleted" msgid="6131529309389084785">"Alarme excluído"</string>
+    <string name="alarm_select">Selecionar alarme</string>
+    <string name="alarm_select_ringtone">Toque</string>
+    <string name="alarm_select_external">Música</string>
+    <string name="alarm_select_ok">OK</string>
+    <string name="alarm_select_cancel">Cancelar</string>
     <string name="slash" msgid="2077577763821006919">"/"</string>
     <string name="world_day_of_week_label" msgid="5911196322328341288">"/ <xliff:g id="LABEL">%s</xliff:g>"</string>
     <string name="next_alarm_description" msgid="2650244835760747046">"Próximo alarme: <xliff:g id="ALARM_TIME">%s</xliff:g>"</string>
     <string name="alarms_selected" msgid="1075308195332888260">"<xliff:g id="ALARMS">%d</xliff:g> selecionados"</string>
     <string name="deleted_message" msgid="1220848140260509437">"Excluído"</string>
     <plurals name="alarm_delete_confirmation" formatted="false" msgid="3591262014329613293">
-      <item quantity="one">Delete selected alarms?</item>
+      <item quantity="one">Excluir o alarme selecionado?</item>
       <item quantity="other">Excluir os alarmes selecionados?</item>
     </plurals>
     <string name="timer_delete_confirmation" msgid="2815524107015816453">"Excluir este timer?"</string>
