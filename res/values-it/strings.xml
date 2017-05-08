@@ -405,4 +405,25 @@
     <string name="pick_alarm_to_dismiss" msgid="5408769235866082896">"Scegli la sveglia da ignorare"</string>
     <string name="no_firing_alarms" msgid="4986161963178722289">"Nessuna sveglia da attivare"</string>
     <string name="alarm_is_snoozed" msgid="7044644119744928846">"Sveglia alle <xliff:g id="ALARM_TIME">%s</xliff:g> posticipata di 10 minuti"</string>
+
+    <!-- Select the source of the alarm -->
+    <string name="alarm_select">Seleziona allarme</string>
+    <!-- Select the ringtone as alarm -->
+    <string name="alarm_select_ringtone">Suoneria</string>
+    <!-- Select the alarm from external device -->
+    <string name="alarm_select_external">Musica</string>
+    <!-- Cancel for selection -->
+    <string name="alarm_select_cancel">Annulla</string>
+      <!-- Title of the setting default alarm tone  -->
+    <string name="default_alarm_tone_title">Tono di allarme predefinito</string>
+     
+     <!-- Setting title for the shake action setting. -->
+    <string name="shake_action_title">Azione agita</string>
+
+    <!-- Setting summary for the shake action setting. -->
+    <string name="shake_action_summary" product="default">Scuotendo il telefono verrà <xliff:g id="action">%s</xliff:g></string>
+     <!-- Summary texts for shake and flip actions -->
+    <string name="action_summary_snooze">Sospendi l\'allarme</string>
+    <string name="action_summary_dismiss">Ignora l\'allarme</string>
+    <string name="action_summary_do_nothing">Non fare nulla</string>
 </resources>
